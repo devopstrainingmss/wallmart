@@ -1,1 +1,1 @@
-hello ...this files contains the string functions
+hello ..this file is contains the all the string functions 
